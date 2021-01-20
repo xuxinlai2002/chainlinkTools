@@ -1,0 +1,43 @@
+{
+    "privateKey":"c03b0a988e2e18794f2f0e881d7ffcd340d583f63c1be078426ae09ddbdec9f5",
+    "url":"http://127.0.0.1:8545",
+    
+    "params":[
+        {"account":"0xf5318ad7B1907BB677900e007e66249a4a1859Ff","orcale":"0x6c7661ef0da02c7dd2b53b66a8e58da7c1f2ff72"},
+        {"account":"0x8CC2A862d2a227372814E955B55cce9fBBb39D9F","orcale":"0x22fe42eeb69aa7dcffb0b1bdcc937796d4ccb265"},
+        {"account":"0x7038111f7bCAe841e185008C270bC2e16E022967","orcale":"0xa5b19db7203d5a9eec2ac1e5c3068fece726f2a2"},
+        {"account":"0xda49057B3d3c0b432A8F00c2c357fb015f7cfbB0","orcale":"0xaca02acf0f5553431d3ab4c43c9de991d29062f9"},
+        {"account":"0x5c5c227009605C6668e21Cc767feE7b73193c40d","orcale":"0x969ba988543681a4c272c74515944913f9aab7d0"},
+        {"account":"0x84aBCa7D12b9eb27F7366cf009d4f6F5914aB416","orcale":"0x79ba3334d1a4ae021e511ab0b857359c1a774ae3"},
+        {"account":"0x00a634239AC9566b8A8f0263f09aCA4Ba6F528f2","orcale":"0xe6a15b51a9104561d91a343b11f6cf77c653d44a"},
+        {"account":"0x904ad4B2739085B58f7414BCA4De4e5Ddec4fCcF","orcale":"0x4a8d570381ae2be1ac50966e197e2a9fb4f08a11"},
+        {"account":"0x7Fd59dF07ec85f19e4Bb0A5D0F02D34D4eE4Fd4D","orcale":"0x12ac0afa8179f307518e2a137679250b904dec76"},
+        {"account":"0x41bb6fa1a643A395E86F60F58a677A33aF1e2124","orcale":"0x9a6fd123b2934720a383f4ace35e7b5c4e931b78"},
+        {"account":"0xe4553908bf96B5B1e8774EE8f314b2Fb4ee15fa0","orcale":"0xba5eba43aa9cceaf4d13012daef884acfb17ec0b"},
+        {"account":"0x394651955B67Fc406e74C9dC74A494407d9A1F9A","orcale":"0xb2fffd4035625f52c4bd9fbc83579d419d4aa1c7"},
+        {"account":"0xef7c02aB3E8f53CDB2F31a84B46e7b73564E018C","orcale":"0xc8d0896c87fc714d9c24019fe6ad6acaabea550b"},
+        {"account":"0x7CbD625c7de7b357b49922896A58bEDD779b799a","orcale":"0xe222c0b1ab63c8c3a3c42a8fb02d61a5859414e1"},
+        {"account":"0x044799CE0ceBb132e9cE898D17A0a9A21bD61EDe","orcale":"0x78762fae5973cd5e321f16f2093245194872d8fe"},
+        {"account":"0xB00Fac95710AbAad43947C54E94bcc63d7956700","orcale":"0x748b25038f1c36c7eb8dbd0d46e460587e920ea6"},
+        {"account":"0x474eCfAac92FD9C69aEEFe20d69bf3339B67FA99","orcale":"0x9cda249572198f53172c382439a93b804e7694b0"},
+        {"account":"0x5Bfc06Bc6Eb68B97d635641c2DAb97768dD540e8","orcale":"0xd76a3ae2370e8d724afdd7d0431fff45747a9780"},
+        {"account":"0xE551ad7F6324D744822D27f31c4B9D41B11648D5","orcale":"0x19e32c7356e79b7457e5f8d7a2eb7dbabd179352"},
+        {"account":"0xAFc71809a96bab3BCA074bf5ab6f5Ff97665DA61","orcale":"0xcb948702d451acd1360d38249e085ad5206013c8"},
+        {"account":"0x8d16531889a6F8A05D8E52BC0184fB0793717e91","orcale":"0x48e701dcb9934dcaeefb47aef1123dd5f230afb4"},
+        {"account":"0x5868c675b5bE3dD4267ab6C8295ab3e2A05edE37","orcale":"0x6ae9de79177155a521b8eadc83bccc993b3550a0"},
+        {"account":"0x3a9a762A4B7011f3FAe5B5d90d37D3064b2c372a","orcale":"0x84efade7b65e9855689e6554e622998f8185e9c8"},
+        {"account":"0xFfaa0A994072963Ec2eF0428bEE718Af6DB7a3c2","orcale":"0x87ac5462e85411e78c5d269298f28dec58f4b101"},
+        {"account":"0x14BC0c64EFA8836583d9feAf5c35fA60A657d598","orcale":"0x128b14915badb177a7a8c4f9da7debb1098fc888"},
+        {"account":"0xD88dec7C3a55D497F1bCbB093dcAbc9537703739","orcale":"0x8a839470763609f249f2a7815abf0da9aef368db"},
+        {"account":"0x78A048C69F92D8Ce18Aba1BBfB9Dc381437d6107","orcale":"0x0208cdc4da42be2ab31f42c3978c12939c33354a"},
+        {"account":"0xD2D13Ea46dF512c8e77DA51b787F97e65afB1Cf3","orcale":"0x2f2949253143caf80f7073db2ab4af76bf2a403a"},
+        {"account":"0x8305437605ae23faB8C73F795e87Ac9ead094893","orcale":"0x9f2d3902d23390cfdfb5aff4456c96c5de5facba"},
+        {"account":"0x7a7f66F666D31E8ca95B0417811D6f29E2b87fEe","orcale":"0x23ee3ed58c3c6fe001cd7cbbde88eae3e2029d7e"},
+        {"account":"0x214f0c3c79Faa738079A0EFbB09306B1156fFcC3","orcale":"0x29cd9381214e7e41bab73b70c2657156dea0542d"},
+        {"account":"0x15080e1aEB10d328387Cd1307f89ca45168a6253","orcale":"0xed02bac71f419ca0f99d14cbac9e8548f5321ff4"},
+        {"account":"0x523c905EA256ceCC0BC953e3308c4422B939c41b","orcale":"0x4ed96f034f37e11c98893dabc56e5a4d79c64a43"},
+        {"account":"0x44a41CbB0FE5afadcD3f0294cFbd94e4BBE3d9eB","orcale":"0xbd149dbc590abe8ca9db7d67771022a4443e09e2"},
+        {"account":"0xb1B82eDF439d9C844d23477d93Aa6C219a9927DF","orcale":"0xdd8cfe82850181066010685acb2a161deefb8dd7"}
+    ]
+    
+}

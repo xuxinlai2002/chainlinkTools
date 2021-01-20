@@ -2,6 +2,6 @@ const oracle = artifacts.require("Oracle.sol");
 
 module.exports = function(deployer) {
 
-  deployer.deploy(oracle,"0x41eA6aD88bbf4E22686386783e7817bB7E82c1ed");
+  deployer.deploy(oracle,"0x62e7a4ab7bd21dd1440b0622f6ce34f7465d5be8");
 
 };
