@@ -1,6 +1,6 @@
 pragma solidity 0.4.24;
 
-import "https://github.com/elastos/Elastos.ELA.SideChain.ETH.Chainlink/evm-contracts/src/v0.4/vendor/Ownable.sol";
+import "./vendor/Ownable.sol";
 import "./vendor/SafeMathChainlink.sol";
 import "./interfaces/ChainlinkRequestInterface.sol";
 import "./interfaces/OracleInterface.sol";
